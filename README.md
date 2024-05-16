@@ -1,3 +1,5 @@
+MACHINE LEARNING CONCEPTS COVERED
+
 1. **Data Handling and Missing Data Approaches**
    - Techniques for cleaning and preprocessing data
    - Methods for handling missing data
